@@ -1,0 +1,6 @@
+{
+  "name": "課堂點名與分組",
+  "description": "專為教師設計的課堂互動工具，支援 CSV 匯入與貼上學生名單、附動畫音效的隨機抽籤（可設定重複與否），以及視覺化自動分組與教室座位圖。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
